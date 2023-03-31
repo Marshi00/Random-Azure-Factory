@@ -1,1 +1,2 @@
 get the copy of lecs
+set up pop from git & dev ups
